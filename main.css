@@ -1,5 +1,10 @@
 /* Styles from the GreenSock website */
 
+html {
+    display: table;
+    margin: auto;
+}
+
 body {
     font-weight: 300;
     font-family: 'Courier New', monospace;
